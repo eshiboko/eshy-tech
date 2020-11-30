@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-7',
+          componentName:'CookieBanner',
+          props:props,
+          context:context,
+          contextKey:'context-bs-6',
+          radpack:false
+        });
+      })({"preset":"cookie1","order":0,"staticContent":{"cookieTitle":"This website uses cookies.","usingCookieMessage":"We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.","acceptAndClose":"Accept","decline":"Decline"},"cookieBannerEnabled":null,"cookieBannerMessage":null,"cookieBannerTitle":null,"cookieBannerButtonLabel":null,"cookieBannerDeclineEnabled":null,"cookieBannerDeclineLabel":null,"analyticsSettingsEnabled":true,"enableCookieWarning":false,"id":"banner-bd71bf7d-54fe-46e2-b88c-deee0e743f83","widgetId":"bd71bf7d-54fe-46e2-b88c-deee0e743f83","section":"default","category":"neutral","locale":"en-US","renderMode":"PUBLISH"},{"widgetId":"bd71bf7d-54fe-46e2-b88c-deee0e743f83","widgetType":"COOKIE_BANNER","widgetPreset":"cookie1","section":"default","category":"neutral","fontSize":"medium","fontFamily":"alternate","websiteThemeOverrides":{},"widgetThemeOverrides":{}});

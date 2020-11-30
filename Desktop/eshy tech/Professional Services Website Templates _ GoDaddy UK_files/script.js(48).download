@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-4',
+          componentName:'@widget/LAYOUT/bs-DynamicFontScaler-Component',
+          props:props,
+          context:context,
+          contextKey:'context-bs-1',
+          radpack:"@widget/LAYOUT/bs-DynamicFontScaler-Component"
+        });
+      })({"font":"primary","text":"A curated food experience with sustainably sourced produce.","containerId":"tagline-container-694","targetId":"dynamic-tagline-695","fontSizes":["xxlarge","xlarge","large"],"maxLines":4,"style":{"display":"inline-block","maxWidth":"100%","whiteSpace":"pre-line"},"typography":"HeadingAlpha","widgetId":"01913537-d12a-4d5e-8d33-76a4b288bce8","section":"default","category":"primary","locale":"en-US","renderMode":"PUBLISH"},{"widgetId":"01913537-d12a-4d5e-8d33-76a4b288bce8","widgetType":"HEADER","widgetPreset":"header9","section":"default","category":"primary","fontSize":"xxlarge","fontFamily":"primary","group":"Hero","groupType":"Default","websiteThemeOverrides":{},"widgetThemeOverrides":{}});

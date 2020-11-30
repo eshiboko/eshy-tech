@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'220516e4-3d12-4a0d-b08b-7061b7bd942c-bootstrap-container',
+          componentName:'SubscribeForm2',
+          props:props,
+          context:context,
+          contextKey:'context-bs-5',
+          radpack:false
+        });
+      })({"preset":"subscribe2","id":"220516e4-3d12-4a0d-b08b-7061b7bd942c","isInternalPage":false,"env":"production","websiteId":"7d10058f-f975-449e-b84b-21d66a5e7290","accountId":"74f2c5cc-774c-11e9-8182-3417ebe73f0e","hasNonCommercePlan":false,"couponToggleHidden":false,"sectionTitle":"Subscribe","staticContent":{"defaultButtonLabel":"Sign Up","emailPlaceholderText":"Email Address","verificationText":"To let us know it's really you and that you'd like to receive emails from us, please click the link in the confirmation email we just sent you. You can unsubscribe from these emails at any time.","emailErrorMessage":"Please enter a valid email address."},"confirmationMessage":"Great, now please verify your email","couponConfirmationMessage":"Thanks so much for signing up!","description":"Sign up to hear from us about specials, sales, and events.","couponDescription":"Get 10% off your initial visit when you sign up for our newsletter!","inputPlaceholder":"Email Address","subscribeButtonLabel":"Sign up","couponToggle":true,"widgetId":"220516e4-3d12-4a0d-b08b-7061b7bd942c","section":"default","category":"neutral","locale":"en-US","renderMode":"PUBLISH"},{"widgetId":"220516e4-3d12-4a0d-b08b-7061b7bd942c","widgetType":"SUBSCRIBE","widgetPreset":"subscribe2","order":4,"section":"default","category":"neutral","fontSize":"medium","fontFamily":"alternate","group":"Group","groupType":"Default","websiteThemeOverrides":{},"widgetThemeOverrides":{}});

@@ -1,0 +1,1 @@
+define("@widget/LAYOUT/c/bs-navigation-bc3c4bb4.js",["exports"],(function(e){"use strict";e.CART_PARAMS="olsPage=cart",e.MAGNIFY_ICON="magGlass",e.SEARCH_PARAMS="olsPage=search"})),"undefined"!=typeof window&&(window.global=window);

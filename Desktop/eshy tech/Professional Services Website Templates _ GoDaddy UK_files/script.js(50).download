@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-5',
+          componentName:'@widget/GALLERY/bs-gallery2-Gallery',
+          props:props,
+          context:context,
+          contextKey:'context-bs-5',
+          radpack:"@widget/GALLERY/bs-gallery2-Gallery"
+        });
+      })({"preset":"gallery2","id":"7d1257bf-4515-4b74-bbd4-8714c9395bad","galleryImages":[{"image":{"width":"56.82%","left":"35.24%","height":"56.82%","scale":0.14055555555555557,"editedAspectRatio":"1.5","top":"19.92%","image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fstock\u002F61355","coordinates":{"x":-106.97916666666663,"y":-40.31944444444443},"rotation":"0"}},{"image":{"image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fstock\u002F7490"}},{"image":{"image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fstock\u002F5392"}}],"viewDevice":null,"staticContent":{"showMore":"Show More","demoCaption1":"Use captions to provide more information about your photos","demoCaption2":"Captions can prompt viewers to act. You can even insert a link","demoCaption3":"Use the caption to call out things the viewer may not notice","showLess":"Show Less"},"widgetId":"7d1257bf-4515-4b74-bbd4-8714c9395bad","section":"alt","category":"neutral","locale":"en-US","renderMode":"PUBLISH"},{"widgetId":"7d1257bf-4515-4b74-bbd4-8714c9395bad","widgetType":"GALLERY","widgetPreset":"gallery2","order":3,"section":"alt","category":"neutral","fontSize":"medium","fontFamily":"alternate","group":"Widget","groupType":"Banner","websiteThemeOverrides":{},"widgetThemeOverrides":{}});

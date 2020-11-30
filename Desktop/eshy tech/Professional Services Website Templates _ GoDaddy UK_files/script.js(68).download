@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-7',
+          componentName:'@widget/LAYOUT/bs-Search-Component',
+          props:props,
+          context:context,
+          contextKey:'context-bs-1',
+          radpack:"@widget/LAYOUT/bs-Search-Component"
+        });
+      })({"shopPageId":"7689379f-d69c-40a0-bd5d-4d1f6f533591","shopRoute":"\u002Fshop","inNavigationDrawer":true,"staticContent":{"hamburgerIcon":"Hamburger Site Navigation Icon","YouTube":"YouTube Social Link","cartProducts":"Products","Facebook":"Facebook Social Link","carouselAddImageHelper":"Click Here to Add Images to Slideshow!","membershipSectionTitle":"Account","membershipSignedInStatus":"Signed in as:","Xing":"Xing Social Link","membershipSignedOutStatus":"Currently not signed in","Houzz":"Houzz Social Link","morePages":"More","membershipBookings":"Bookings","Yelp":"Yelp Social Link","Google+":"Google Plus Social Link","Instagram":"Instagram Social Link","Twitter":"Twitter Social Link","translateBarHelper":"Translate: ","promoBannerLink":"Promotion Banner Link","membershipAccount":"My Account","membershipSignIn":"Sign In","navigationDropdownToggle":"Website navigation dropdown menu","cartIcon":"Shopping Cart Icon","Pinterest":"Pinterest Social Link","membershipDropdownToggle":"Website member dropdown menu","membershipCreateAccount":"Create Account","membershipOrders":"Orders","membershipSignOut":"Sign out","membershipSignOutCaps":"SIGN OUT","search_placeholder":"Search Products","LinkedIn":"LinkedIn Social Link","cartServices":"Services"},"keepOpen":true,"searchFormLocation":"NAV_DRAWER","widgetId":"d7f1440a-d311-45c2-a2f6-c6831a8de517","section":"alt","category":"neutral","locale":"en-US","renderMode":"PUBLISH"},{"widgetId":"d7f1440a-d311-45c2-a2f6-c6831a8de517","widgetType":"HEADER","widgetPreset":"header9","section":"alt","category":"neutral","fontSize":"medium","fontFamily":"alternate","group":"NavigationDrawer","groupType":"Default","websiteThemeOverrides":{},"widgetThemeOverrides":{}});

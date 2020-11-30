@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-6',
+          componentName:'@widget/GALLERY/bs-gallery2-Gallery',
+          props:props,
+          context:context,
+          contextKey:'context-bs-1',
+          radpack:"@widget/GALLERY/bs-gallery2-Gallery"
+        });
+      })({"preset":"gallery2","order":0,"id":"577ceec5-6f49-40e3-baeb-1b0950e61020","galleryImages":[{"image":{"image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fip\u002F40c862fb-62c4-4297-87fd-0ec1fda5046f\u002Fpan-xiaozhen-423533-unsplash%20(1).jpg"}},{"image":{"width":"100%","left":"0%","height":"100%","position":"50% 50%","scale":0.06729081334113517,"editedAspectRatio":"1.4979520187244002","overlayAlpha":0,"top":"0%","filter":"NONE","image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fip\u002F40c862fb-62c4-4297-87fd-0ec1fda5046f\u002Ftetbirt-salim-696162-unsplash.jpg","coordinates":{"x":0,"y":0},"rotation":"0"}},{"image":{"image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fip\u002F40c862fb-62c4-4297-87fd-0ec1fda5046f\u002Fleo-rivas-30808-unsplash.jpg"}},{"image":{"image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fip\u002F40c862fb-62c4-4297-87fd-0ec1fda5046f\u002Fthiago-cerqueira-191866-unsplash%20(1).jpg"}}],"viewDevice":null,"staticContent":{"showMore":"Show More","demoCaption1":"Use captions to provide more information about your photos","demoCaption2":"Captions can prompt viewers to act. You can even insert a link","demoCaption3":"Use the caption to call out things the viewer may not notice","showLess":"Show Less"},"widgetId":"577ceec5-6f49-40e3-baeb-1b0950e61020","section":"default","category":"neutral","locale":"en-US","renderMode":"PUBLISH"},{"widgetId":"577ceec5-6f49-40e3-baeb-1b0950e61020","widgetType":"GALLERY","widgetPreset":"gallery2","section":"default","category":"neutral","fontSize":"medium","fontFamily":"alternate","group":"Widget","groupType":"Banner","websiteThemeOverrides":{},"widgetThemeOverrides":{}});

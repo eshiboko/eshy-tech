@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-11',
+          componentName:'@widget/GALLERY/bs-gallery3-Gallery',
+          props:props,
+          context:context,
+          contextKey:'context-bs-1',
+          radpack:"@widget/GALLERY/bs-gallery3-Gallery"
+        });
+      })({"preset":"gallery3","id":"267e3e8e-9758-4d7c-bff2-8dece5092590","galleryImages":[{"image":{"image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fip\u002Fa0165f7d-3141-4edd-b809-ec85f2aa7240\u002Ftim-stief-1318059-unsplash.jpg"}}],"viewDevice":null,"staticContent":{"showMore":"Show More","demoCaption1":"Use captions to provide more information about your photos","demoCaption2":"Captions can prompt viewers to act. You can even insert a link","demoCaption3":"Use the caption to call out things the viewer may not notice","showLess":"Show Less"},"title":"","autoplay":false,"autoplayDelay":"3.5","transitionType":"slide","showSlideNum":false,"showArrows":false,"fullBleed":true,"images":[{"lightboxUrl":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fip\u002Fa0165f7d-3141-4edd-b809-ec85f2aa7240\u002Ftim-stief-1318059-unsplash.jpg\u002F:\u002F","index":0,"position":"center","imageData":{"image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fip\u002Fa0165f7d-3141-4edd-b809-ec85f2aa7240\u002Ftim-stief-1318059-unsplash.jpg","src":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fip\u002Fa0165f7d-3141-4edd-b809-ec85f2aa7240\u002Ftim-stief-1318059-unsplash.jpg"}}],"renderAsThumbnail":false,"widgetId":"267e3e8e-9758-4d7c-bff2-8dece5092590","section":"alt","category":"accent","locale":"en-US","renderMode":"PUBLISH"},{"widgetId":"267e3e8e-9758-4d7c-bff2-8dece5092590","widgetType":"GALLERY","widgetPreset":"gallery3","order":2,"section":"alt","category":"accent","fontSize":"medium","fontFamily":"alternate","group":"Section","groupType":"Banner","websiteThemeOverrides":{},"widgetThemeOverrides":{}});
